@@ -1,2 +1,2 @@
 # misc
-Various useful samples or mini projects
+Various useful samples and mini projects
